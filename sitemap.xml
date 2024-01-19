@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://portfolio.stefan.srs.onl/</loc>
+    </url>
+    <url>
+        <loc>https://portfolio.stefan.srs.onl/about/</loc>
+    </url>
+    <url>
+        <loc>https://portfolio.stefan.srs.onl/archive/</loc>
+    </url>
+    <url>
+        <loc>https://portfolio.stefan.srs.onl/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://portfolio.stefan.srs.onl/projects/</loc>
+    </url>
+    <url>
+        <loc>https://portfolio.stefan.srs.onl/projects/elektrifikatsiya/</loc>
+        <lastmod>2024-01-19</lastmod>
+    </url>
+    <url>
+        <loc>https://portfolio.stefan.srs.onl/projects/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://portfolio.stefan.srs.onl/projects/webpage/</loc>
+        <lastmod>2024-01-19</lastmod>
+    </url>
+    <url>
+        <loc>https://portfolio.stefan.srs.onl/tags/</loc>
+    </url>
+    <url>
+        <loc>https://portfolio.stefan.srs.onl/tags/webdev/</loc>
+    </url>
+</urlset>
